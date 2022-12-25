@@ -4,7 +4,10 @@ public class logIn {
 
 
     // click  logIn box
-    // enter user name
+    // enter username
+
+    // enter username
+    // enter password
 
 
 }
