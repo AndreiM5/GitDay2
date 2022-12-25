@@ -10,6 +10,7 @@ public class logIn {
     // enter password
 
     // check error msg
+    // click enter box
 
 
 }
