@@ -7,7 +7,7 @@ public class Sails {
 
     // more sales items
 
-    // added holiday sales
+    // added holiday sales  25%
     // deals
 
 }
